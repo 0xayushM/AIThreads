@@ -14,7 +14,7 @@ AIThreads is an innovative T-Shirt design app that leverages the power of AI to 
 
 Click the link below to watch a demo video of AIThreads in action:
 
-https://youtu.be/_h7TlFqzQhg
+[AIThreads](https://youtu.be/_h7TlFqzQhg)
 
 <!-- [AIThreads Demo Video](https://youtu.be/_h7TlFqzQhg) -->
 <!-- <video width="640" height="360" controls>
