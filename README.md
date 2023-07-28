@@ -16,10 +16,6 @@ Click the link below to watch a demo video of AIThreads in action:
 
 [AIThreads](https://youtu.be/_h7TlFqzQhg)
 
-<!-- [AIThreads Demo Video](https://youtu.be/_h7TlFqzQhg) -->
-<!-- <video width="640" height="360" controls>
-  <source src="/README_assets/AIThreads.mov" type="video/mov">
-</video> -->
 <br>
 <hr>
 <hr>
