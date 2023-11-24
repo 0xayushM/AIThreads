@@ -1,6 +1,6 @@
 # AIThreads 🤖
 
-### [Demo](https://ai-threads.vercel.app/) | [Video](https://youtu.be/_h7TlFqzQhg)
+### [Demo](https://ai-threads.vercel.app/) | [Video](https://youtu.be/e6t1z2pbpyM)
 ![Screenshot 1](/README_assets/ss1.png)
 
 AIThreads is an innovative T-Shirt design app that leverages the power of AI to create realistic 3D models of custom designs. By integrating ThreeJS, OpenAI, and Dalle APIs, it offers users an endless array of design ideas based on their inputs, including colors, themes, and graphics.
