@@ -2,23 +2,15 @@
 
 ![AIThreads Logo](./README_assets/full_logo.png)
 
+![Screenshot 1](/README_assets/ss1.png)
+![Screenshot 2](/README_assets/ss2.png)
+
+### [Video](https://youtu.be/_h7TlFqzQhg)
+
 # Project Description
 
 AIThreads is an innovative T-Shirt design app that leverages the power of AI to create realistic 3D models of custom designs. By integrating ThreeJS, OpenAI, and Dalle APIs, it offers users an endless array of design ideas based on their inputs, including colors, themes, and graphics.
 
-<br>
-<hr>
-<hr>
-
-# Demo Video
-
-Click the link below to watch a demo video of AIThreads in action:
-
-[AIThreads](https://youtu.be/_h7TlFqzQhg)
-
-<br>
-<hr>
-<hr>
 
 # Features
 
@@ -34,12 +26,6 @@ Click the link below to watch a demo video of AIThreads in action:
 
 - Graphics Library: The app includes a library of graphics and artwork that users can use to enhance their designs further.
 
-
-<br>
-
-<hr>
-<hr>
-
 # Technologies Used
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -49,26 +35,7 @@ Click the link below to watch a demo video of AIThreads in action:
 ![OpenAi](https://img.shields.io/badge/OpenAi-darkgreen?style=for-the-badge&logo=openai&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-yellow?style=for-the-badge&logo=vite&logoColor=white)
 
-<br>
-
-<hr>
-<hr>
-
-# Screenshots
-
-![Screenshot 1](/README_assets/ss1.png)
-![Screenshot 2](/README_assets/ss2.png)
-
-
-<br>
-<hr>
-<hr>
 
 ## Contributing
 
 We welcome contributions from the open-source community. If you find any bugs or have ideas for improvements, feel free to submit an issue or a pull request.
-
-<!-- <br> -->
-
-<!-- <br>
-<hr>
